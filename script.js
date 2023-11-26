@@ -5,5 +5,5 @@ const phoneNumber=document.getElementById("pn");
 const emailId=document.getElementById("email");
 function myAlert()
 	{
-		alert(`First Name: ${firstName.value} \nLast Name: ${lastName.value} \nPhone Number: ${phoneNumber.value} \nEmail Id: ${emailId.value}`);
+		alert(`First Name: ${firstName.value} \nLast Name: ${lastName.value} \nPhone Number: ${phoneNumber.value} \nEmail ID: ${emailId.value}`);
 	}
